@@ -6,6 +6,7 @@ entries:
     created: "2019-08-09T14:32:23.820065422Z"
     description: A Helm chart for Kubernetes
     digest: 5ebfdb287bda79f419d28e89965b4bbae7193888c7300f9847a13be62ce1b1b4
+    icon: https://raw.githubusercontent.com/ot4i/ace-docker/master/app_connect_light_256x256.png
     name: helm-chart-test
     urls:
     - https://nevido.github.io/helm-chart/helm-chart-test-0.1.0.tgz
